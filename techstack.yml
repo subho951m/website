@@ -2,7 +2,7 @@ repo_name: subho951m/website
 report_id: c2c4b788065014284b3b385e91a80c46
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-24T08:30:55+00:00'
+timestamp: '2024-01-05T08:16:27+00:00'
 requested_by: subho951m
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/subho951m/website
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/subho951m/website
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -50,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/subho951m/website
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -59,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/subho951m/website
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -68,6 +72,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/subho951m/website/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Harald Schilly
   last_updated_on: 2014-08-28 14:05:15.000000000 Z
@@ -80,6 +85,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/subho951m/website/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Harald Schilly
   last_updated_on: 2015-10-06 18:34:37.000000000 Z
@@ -92,6 +98,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/subho951m/website
   detection_source: Repo Metadata
 - name: autopep8
   description: A tool that automatically formats Python code to conform to the PEP
